@@ -333,8 +333,9 @@ cnx.close()
 #Closing the connection
 conn.close()
 
+
 #Now code to finally forward the message to the client about month end closing with appropriate details and attached files generated above with timestamp_filenames
-email_user="tuladharsushant01@gmail.com"
+email_user=input("Enter the email address")
 email_send="punkblaze2012@gmail.com"
 subject="Month end check provisions"
 #getting password as input for login using SMTP
