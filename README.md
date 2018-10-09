@@ -3,7 +3,7 @@
 Here automation scripts <code> readme.md </code>consists of all the important details of automation. 
 
 <b>Automation_code_done_by: </b><code> Sushant Tuladhar, Software Engineer, NCIT </code><br> <br>
-<b>Program of code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br> <br>
+<b>Program code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br> <br>
 <b>Significance:</b> The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting <br>datbase with ssh connection and retrieving files in an order and manually managing them before sending. <br> <br>
 
 # The prequisites for using this automation scripts are written below as : 
