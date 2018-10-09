@@ -35,20 +35,18 @@ e) Then the program asks for email address personal <br>
 f) Enter the password to continue <br>
 g) Additional option that can be done in further update is choose the name of client where database is send. <br>
  
- #Example of the file when run : <br>
- <code>
- a) Enter the name of database: mfin_dbname <br>
- b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit: yes <br>
- c) Enter the password of level2 user: ************* <br>
+ # Example of the file when run :<br>
+ 
+ a) Enter the name of database: <code>mfin_dbname</code> <br>
+ b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit: <code>yes </code><br>
+ c) Enter the password of level2 user: <code>*************</code> <br>
  d) Filename generated occured according to timestamp value <br>
- e) Enter the email address of your gmail : mailadddress@gmail.com<br>
- f) Enter the password of gmail here: *************** <br>
- g) Enter the mail_sending address: mailbccc@gmail.com <br>
+ e) Enter the email address of your gmail :<code> mailadddress@gmail.com</code><br>
+ f) Enter the password of gmail here: <code>*************** </code><br>
+ g) Enter the mail_sending address: <code>mailbccc@gmail.com </code><br>
  h) Prompts message : <br>
     i) Successful sending message: <br>
-      Mail sending successful with charge profile created <br>
+     <code> Mail sending successful with charge profile created </code><br>
     ii) Unsuccessful sending message: <br>
-      Mail sending failed. 
-  </code>
+     <code> Mail sending failed. </code>
  #end of file
-  
