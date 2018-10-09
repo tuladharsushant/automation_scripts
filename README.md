@@ -9,7 +9,7 @@ Here automation scripts <code> readme.md </code>consists of all the important de
 # The prequisites for using this automation scripts are written below as : 
 
 1. Installation of python is very much essential for windows client with python version <code>3.4 </code>or higher as syntax of programming usually runs python3. 
-2. Installation of <code> pip (Python Install Packages) should be done for python3. 
+2. Installation of <code> pip </code>(Python Install Packages) should be done for python3. 
 3. In windows during installation environment variables should be checked and maintained to provide python and pip directory. 
 4. Run the following through bash in linux. Bat file is under construction and will be available soon in directory. 
 5. Python install packages requirement <br>
