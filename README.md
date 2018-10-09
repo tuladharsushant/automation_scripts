@@ -37,16 +37,16 @@ g) Additional option that can be done in further update is choose the name of cl
  
  # Example of the file when run :<br>
  
- <b>a) Enter the name of database:</b> <code>mfin_dbname</code> <br>
- <b>b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit:</b> <code>yes </code><br>
- <b>c) Enter the password of level2 user:</b> <kbd><code>*************</code></kbd> <br>
- d) Filename generated occured according to timestamp value <br>
- <b>e) Enter the email address of your gmail :</b><code> mailadddress@gmail.com</code><br>
- <b>f) Enter the password of gmail here:</b> <kbd> <code>***************</code> </kbd><br>
-  <b>g) Enter the mail_sending address: </b><code>mailbccc@gmail.com </code><br>
-  <b>h) Prompts message : </b><br>
-  &nbsp;  i)Successful sending message: <br>
-   &nbsp;&nbsp;  <code> Mail sending successful with charge profile created </code><br>
-   &nbsp; ii) Unsuccessful sending message: <br>
+ <b>a) Enter the name of database:</b> <code>mfin_dbname</code> <br><br>
+ <b>b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit:</b> <code>yes </code><br><br>
+ <b>c) Enter the password of level2 user:</b> <kbd><code>*************</code></kbd> <br><br>
+ d) Filename generated occured according to timestamp value <br><br>
+ <b>e) Enter the email address of your gmail :</b><code> mailadddress@gmail.com</code><br><br>
+ <b>f) Enter the password of gmail here:</b> <kbd> <code>***************</code> </kbd><br><br>
+  <b>g) Enter the mail_sending address: </b><code>mailbccc@gmail.com </code><br><br>
+  <b>h) Prompts message : </b><br><br>
+  &nbsp;  i)Successful sending message: <br><br>
+   &nbsp;&nbsp;  <code> Mail sending successful with charge profile created </code><br><br>
+   &nbsp; ii) Unsuccessful sending message: <br><br>
    &nbsp;&nbsp;  <code> Mail sending failed. </code>
  #end of file
