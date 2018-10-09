@@ -2,10 +2,9 @@
 
 Here automation scripts readme.md consists of all the important details of automation. 
 
-Automation_code_done_by:<code> Sushant Tuladhar </code>, Software Engineer, NCIT <br>
-Program of code purpose: SynergyTech Software Automatic Mail Sender <br>
-Significance: The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting <br>
-datbase with ssh connection and retrieving files in an order and manually managing them before sending. <br>
+<b>Automation_code_done_by: </b><code> Sushant Tuladhar, Software Engineer, NCIT </code><br>
+<b>Program of code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br>
+<b>Significance:</b> The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting <br>datbase with ssh connection and retrieving files in an order and manually managing them before sending. <br> 
 
 # The prequisites for using this automation scripts are written below as : 
 
@@ -16,14 +15,14 @@ usually runs python3.
 4. Run the following through bash in linux. Bat file is under construction and will be available soon in directory. 
 
 5. Python install packages requirement <br>
-a) Pip install xlwt or pip3 install xlwt according to requirement # xlwt is for writing in excel xls file <br>
-b) pip install sshtunnel  #for SSHTunneling through SSHTunnelForwarder <br>
-c) pip install PyMySql # for connecting database which could be local or used local transmission <br>
-d) pip install smtplib #for sending email <br>
+a) Pip install <code>xlwt</code> or pip3 install xlwt according to requirement # xlwt is for writing in excel xls file <br>
+b) pip install <code>sshtunnel</code>  #for SSHTunneling through SSHTunnelForwarder <br>
+c) pip install <code>PyMySql</code> # for connecting database which could be local or used local transmission <br>
+d) pip install <code>smtplib </code> #for sending email <br>
 
-6. The another one of the important requirement is to turn on less secure apps on in gmail account to send it from bash. <br>
+6. The another one of the important requirement is to <code>turn on less secure apps</code> on in gmail account to send it from bash. <br>
 7. Run through bash by using following code where the script of .sh file is located :<br>
-  bash myfile.sh <br>
+  <kbd> bash myfile.sh </kbd> <br>
   
 8. The following steps occur when we use this automation script : <br>
 a) Enter database name <br>
