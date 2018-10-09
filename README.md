@@ -12,7 +12,6 @@ Here automation scripts <code> readme.md </code>consists of all the important de
 2. Installation of <code> pip (Python Install Packages) should be done for python3. 
 3. In windows during installation environment variables should be checked and maintained to provide python and pip directory. 
 4. Run the following through bash in linux. Bat file is under construction and will be available soon in directory. 
-
 5. Python install packages requirement <br>
 a) Pip install <code>xlwt</code> or pip3 install xlwt according to requirement # xlwt is for writing in excel xls file <br>
 b) pip install <code>sshtunnel</code>  #for SSHTunneling through SSHTunnelForwarder <br>
