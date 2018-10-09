@@ -13,14 +13,15 @@ Here automation scripts <code> readme.md </code>consists of all the important de
 3. In windows during installation environment variables should be checked and maintained to provide python and pip directory. 
 4. Run the following through bash in linux. Bat file is under construction and will be available soon in directory. 
 5. Python install packages requirement <br>
-a) Pip install <code>xlwt</code> or pip3 install xlwt according to requirement
-# xlwt is for writing in excel xls file <br>
+a) Pip install <code>xlwt</code> or pip3 install xlwt according to requirement 
+--# xlwt is for writing in excel xls file <br>
 b) pip install <code>sshtunnel</code>  
-#for SSHTunneling through SSHTunnelForwarder <br>
+--#for SSHTunneling through SSHTunnelForwarder <br>
 c) pip install <code>PyMySql</code> 
-# for connecting database which could be local or used local transmission <br>
+--# for connecting database which could be local or used local transmission <br>
 d) pip install <code>smtplib </code>
-#for sending email <br>
+--#for sending email <br>
+
 6. The another one of the important requirement is to <code>turn on less secure apps</code> on in gmail account to send it from bash. <br>
 7. Run through bash by using following code where the script of .sh file is located :<br>
   <kbd> bash myfile.sh </kbd> <br>
