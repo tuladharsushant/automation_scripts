@@ -1,6 +1,6 @@
-# automation_scripts
+# Automation_scripts
 
-Here automation scripts readme.md consists of all the important details of automation. 
+Here automation scripts <code> readme.md </code>consists of all the important details of automation. 
 
 <b>Automation_code_done_by: </b><code> Sushant Tuladhar, Software Engineer, NCIT </code><br> <br>
 <b>Program of code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br> <br>
