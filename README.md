@@ -39,8 +39,8 @@ g) Additional option that can be done in further update is choose the name of cl
  
  <b>a) Enter the name of database:</b> <code>mfin_dbname</code> <br>
  <b>b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit:</b> <code>yes </code><br>
- <b>c) Enter the password of level2 user:</b> <kbd><code>*************</code></kbd> <br>
-<b> d) Filename generated occured according to timestamp value <br>
+ c) Enter the password of level2 user: <kbd><code>*************</code></kbd> <br>
+ d) Filename generated occured according to timestamp value <br>
  <b>e) Enter the email address of your gmail :</b><code> mailadddress@gmail.com</code><br>
  <b>f) Enter the password of gmail here:</b> <kbd> <code>***************</code> </kbd><br>
   <b>g) Enter the mail_sending address: </b><code>mailbccc@gmail.com </code><br>
