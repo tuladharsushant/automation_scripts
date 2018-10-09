@@ -10,5 +10,7 @@ Pre-requisites for running the script of automation are as follows:
       iv) pip install sshconnector #package if ssh connection is allowed
       v) bash scripting and referencing this from linux command 
  3. User credentials needs to be provided for linking account through gmail to send email # Email transfer through gmail standard port 587 and user as listed. 
+ 4. This is the automation level to be presented from local database. 
+ 
  
  #end of file 
