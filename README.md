@@ -45,8 +45,8 @@ g) Additional option that can be done in further update is choose the name of cl
  f) Enter the password of gmail here: <kbd> <code>***************</code> </kbd><br>
  g) Enter the mail_sending address: <code>mailbccc@gmail.com </code><br>
  h) Prompts message : <br>
-    i) Successful sending message: <br>
-     <code> Mail sending successful with charge profile created </code><br>
-    ii) Unsuccessful sending message: <br>
-     <code> Mail sending failed. </code>
+  &nbsp;  i)Successful sending message: <br>
+   &nbsp;&nbsp;  <code> Mail sending successful with charge profile created </code><br>
+   &nbsp; ii) Unsuccessful sending message: <br>
+   &nbsp;&nbsp;  <code> Mail sending failed. </code>
  #end of file
