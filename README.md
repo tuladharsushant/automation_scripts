@@ -2,7 +2,7 @@
 
 Here automation scripts readme.md consists of all the important details of automation. 
 
-Automation_code_done_by: Sushant Tuladhar, Software Engineer, NCIT 
+Automation_code_done_by: Sushant Tuladhar, Software Engineer, NCIT <br>
 Program of code purpose: SynergyTech Software Automatic Mail Sender 
 Significance: The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting 
 datbase with ssh connection and retrieving files in an order and manually managing them before sending. 
