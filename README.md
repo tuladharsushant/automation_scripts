@@ -2,15 +2,14 @@
 
 Here automation scripts readme.md consists of all the important details of automation. 
 
-<b>Automation_code_done_by: </b><code> Sushant Tuladhar, Software Engineer, NCIT </code><br>
-<b>Program of code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br>
-<b>Significance:</b> The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting <br>datbase with ssh connection and retrieving files in an order and manually managing them before sending. <br> 
+<b>Automation_code_done_by: </b><code> Sushant Tuladhar, Software Engineer, NCIT </code><br> <br>
+<b>Program of code purpose:</b><code> SynergyTech Software Automatic Mail Sender </code><br> <br>
+<b>Significance:</b> The significance of this code is to to send email without consuming too much effort in preparing sheets by connecting <br>datbase with ssh connection and retrieving files in an order and manually managing them before sending. <br> <br>
 
 # The prequisites for using this automation scripts are written below as : 
 
-1. Installation of python is very much essential for windows client with python version 3.4 or higher as syntax of programming
-usually runs python3. 
-2. Installation of pip (Python Install Packages) should be done for python3. 
+1. Installation of python is very much essential for windows client with python version <code>3.4 </code>or higher as syntax of programming usually runs python3. 
+2. Installation of <code> pip (Python Install Packages) should be done for python3. 
 3. In windows during installation environment variables should be checked and maintained to provide python and pip directory. 
 4. Run the following through bash in linux. Bat file is under construction and will be available soon in directory. 
 
