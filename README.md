@@ -48,5 +48,5 @@ g) Additional option that can be done in further update is choose the name of cl
   &nbsp;  i)Successful sending message: <br><br>
    &nbsp;&nbsp;  <code> Mail sending successful with charge profile created </code><br><br>
    &nbsp; ii) Unsuccessful sending message: <br><br>
-   &nbsp;&nbsp;  <code> Mail sending failed. </code>
- #end of file
+   &nbsp;&nbsp;  <code> Mail sending failed. </code> <br><br>
+ # end of file
