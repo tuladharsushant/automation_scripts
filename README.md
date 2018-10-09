@@ -34,7 +34,6 @@ e) Then the program asks for email address personal
 f) Enter the password to continue
 g) Additional option that can be done in further update is choose the name of client where database is send. 
  
- 
  #Example of the file when run : 
  a) Enter the name of database: mfin_dbname
  b) Are you sure you want to select this database 'mfin_dbname' type 'yes' or 'y' to continue and other characters for exit: yes
