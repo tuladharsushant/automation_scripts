@@ -348,8 +348,7 @@ from
     subject="Month end check provisions"
 #getting password as input for login using SMTP
     passlogin=getpass.getpass("Enter your gmail password: ")
-    print("Now type the location of user email you want to send the files to: ")
-    email_send=input("Enter the email
+    email_send=input("Enter the email address you want to send mail to : ")
     body= """
 Dear sir, 
 
